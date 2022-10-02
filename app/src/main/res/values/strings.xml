@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Extraedge</string>
+    <string name="no_internet_message">Please check you internet connection</string>
+    <string name="rocket_details">Rocket Details</string>
+    <string name="rocket_list">Rocket List</string>
+    <string name="order_id">Order Id</string>
+</resources>
